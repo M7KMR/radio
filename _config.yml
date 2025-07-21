@@ -23,8 +23,8 @@ title: M7KMR Radio Blog
 description: >- # this means to ignore newlines until "baseurl:"
   I am an amateur radio enthusiast, based in London, UK. I have always been interested in everything electrical and mecahnical. 
   In 2020 I gained my Foundation license, and received the callsign M7KMR. I plan to use this blog to record my amateur radio activity.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/radio" # the subpath of your site, e.g. /blog
+url: "https://m7kmr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username:  M7KMR
 
