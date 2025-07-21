@@ -1,0 +1,13 @@
+# The HF bug
+
+On a recent holiday to France with family my father-in-law, G8TEE, brought his portable HF setup. We spent a first morning trying to join his weekly 40m net from our Airbnb, where we could clearly hear all of the UK stations but they could not receive us. The radio was a Yaesu FT-817 on 5W, and we tried both a vertical and 1/2 wave endfed antennas with no luck. We also tried a friend of mine in Southampton, M0SFW, with the same result: strong signals at our end, but he could hear nothing. After a few unsuccessful hours of experimentation, we resolved to find a better location the following week to see if we could make any improvements.
+
+Picture: Yaesu FT-817, LDG ==XXXX== ATU.
+
+The next week we drove to an area in a forest with slightly higher elevation, but still only 110m ASL. Unfortunately we had the same result for Tony's weekly net, being able to hear the UK stations but them not being able to receive us, probably due to the high noise on their side. This time, my friend M0SFW had taken his POTA setup to a country park outside Southampton to remove himself from some of the noise he receives at home. And we were in luck! Using a the 1/2 wave endfed we were able to have a 2-way conversation back to Southampton on 40m.
+
+
+
+
+
+To date I've used HF in a professional setting, but have not used it all in my personal life due to the fact I live in a very urban area, with high noise and limited space for an antenna
