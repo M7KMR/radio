@@ -29,7 +29,7 @@ domain: m7kmr.github.io       # if you want to force HTTPS, specify the domain w
 url: https://m7kmr.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: /radio      # place folder name if the site is served in a subfolder
 # twitter_username:
-github_username:  M7KMR
+github_username: M7KMR
 
 # Build settings
 theme: minima
